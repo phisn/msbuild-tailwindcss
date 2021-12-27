@@ -1,5 +1,3 @@
-# Forked with fix for tailwind 3
-
 # Welcome to MSBuild TailwindCSS 👋
 
 Package adds a build action "TailwindCSS" that will send marked files to postcss with tailwindcss plugin configured
